@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1638
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16780#The-Declaration-of-Independence-of-The-United-States-of-America
 gutenberg_bookshelf:
 - United States
 - United States Law
